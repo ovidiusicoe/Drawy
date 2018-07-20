@@ -1,0 +1,5 @@
+Create a Windows application using the existing infrastructure by extending it.
+
+The application should be able to draw figures given from a dropdown menu. Initially, 
+the figures are squares, rectangles, circles or triangles; in the future, new figures 
+could be added, including a composite of the existing ones.
